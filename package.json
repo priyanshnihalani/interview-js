@@ -1,0 +1,18 @@
+{
+  "name": "interview-js-maang",
+  "version": "1.0.0",
+  "description": "60-Hour MAANG & Big Tech JavaScript Preparation Repository",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "javascript",
+    "maang",
+    "interview-preparation",
+    "polyfills",
+    "internals"
+  ],
+  "author": "",
+  "license": "MIT"
+}
